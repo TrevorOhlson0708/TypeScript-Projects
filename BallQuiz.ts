@@ -1,3 +1,4 @@
+// Sports Quiz on Baseball, Football, and Basketball
 import readline from "readline";
 
 type Sport = "Baseball" | "Football" | "Basketball";
