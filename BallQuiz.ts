@@ -1,4 +1,4 @@
-// Sports Quiz on Baseball, Football, and Basketball
+// Sports Quiz on Baseball, Football, and Basketball in typescript
 import readline from "readline";
 
 type Sport = "Baseball" | "Football" | "Basketball";
